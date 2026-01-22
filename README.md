@@ -1,2 +1,2 @@
 # Myntra-Clone
-Making it with the help of Teacher
+Making it with the help of Teacher.
